@@ -10,4 +10,4 @@ In this project, I have utilized the following technologies:
 - HTML
 - CSS
 - SCSS
-- -Javascript
+- Javascript
